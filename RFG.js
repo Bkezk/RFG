@@ -20,7 +20,7 @@ const dayOfTheWeek = () => {
     const adj = ['annoying', 'awful', 'better', 'bloody', 'busy',
 'clean', 'cloudy', 'delightful', 'adventurous', 'bad', 'calm', 'comfortable',
 'dangerous', 'difficult', 'average', 'beautiful', 'great', 'good', 'nice', 'bright', 'cheerful', 'dark',
-'shitty', 'dull', 'fine', 'joyous', 'hard', 'long', 'nasty', 'odd', 'naughty', 'lovely', 'pleasant',
+'shitty', 'dull', 'fine', 'joyous',k;lk 'hard', 'long', 'nasty', 'odd', 'naughty', 'lovely', 'pleasant',
 'perfect', 'splendid']
 const relation = ['friend', 'buddy', 'pal', 'hoe', 'bitch', 'compadre', 'comrad', 'brother', 'bud', 'best friend', 'tiny dick', 'my man', 'Jethro', 'colleague', 'partner', 
 'mate', 'peer', 'associate', 'muskateer']
